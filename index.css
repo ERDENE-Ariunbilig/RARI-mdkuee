@@ -3,7 +3,6 @@ body {
   margin: 0;
   padding: 0;
   height: 100vh;
-  font-family: 'Doto', sans-serif;
 }
 
 h1 {
@@ -13,8 +12,10 @@ h1 {
   text-align: center;
 }
 
-div {
-  font-family: 'Doto', sans-serif;
+div{
+  
+  font-family: 'Doto'
+
 }
 
 .copyright {
